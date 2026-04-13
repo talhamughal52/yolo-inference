@@ -6,7 +6,7 @@ This project demonstrates how to:
 3. Run inference using the ONNX model
 4. Compare results between PyTorch and ONNX models using IoU (Intersection over Union)
 
-## Environment Setup
+## Environment Setup 
 
 ### Prerequisites
 - **Python 3.8, 3.9, 3.10, 3.11, or 3.12** (recommended: 3.11 or 3.12)
